@@ -7,10 +7,10 @@ Build a decision tree classifier to predict whether a customer will purchase a p
 Steps followed to find solution : 
 
 
-Step 1: Import libraries
-Step 2: Load and inspect the dataset.
-Step 3: Preprocess the data (handle missing values, encode categories, etc.).
-Step 4: Split the dataset into training and testing sets.
-Step 5: Train the decision tree model.
-Step 6: Visualize the decision tree.
-Step 7: Evaluate the model using accuracy, classification report, and confusion matrix.
+Step 1: Import libraries 
+Step 2: Load and inspect the dataset. 
+Step 3: Preprocess the data (handle missing values, encode categories, etc.). 
+Step 4: Split the dataset into training and testing sets. 
+Step 5: Train the decision tree model. 
+Step 6: Visualize the decision tree. 
+Step 7: Evaluate the model using accuracy, classification report, and confusion matrix. 
